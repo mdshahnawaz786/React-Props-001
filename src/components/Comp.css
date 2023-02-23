@@ -1,0 +1,18 @@
+.box{
+    height: 45%;
+    width: 17%;
+}
+
+.upper_div{
+    height: 70%;
+    width: 100%;
+}
+
+.lower_div{
+    height: 30%;
+    width: 100%;
+    display: flex;
+    flex-direction: column;
+    padding: 10px 15px;
+    justify-content: center;
+}
